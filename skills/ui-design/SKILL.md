@@ -1,5 +1,5 @@
 ---
-name: frontend-design
+name: ui-design
 description: >-
   Create distinctive, production-grade frontend interfaces with high design quality across 4 specialized tracks: (1) Mobile & Touch-first UI, (2) Desktop & Web UI, (3) Marketing, Landing & Showcase, and (4) Games & Creative Canvas. Use this skill when the user asks to build components, pages, dashboards, mobile apps, marketing sites, or games.
 ---

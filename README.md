@@ -3,4 +3,4 @@
 Curated harness and skills for AI coding agents.
 
 ## Skills
-- [`frontend-design`](skills/frontend-design): High-taste, production-grade frontend interface design across Web, Mobile, and Games.
+- [`ui-design`](skills/ui-design): High-taste, production-grade frontend interface design across 4 specialized tracks (Mobile & Touch, Desktop & Web UI, Marketing & Landing, and Games & Creative Canvas).
